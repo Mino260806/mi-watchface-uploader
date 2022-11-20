@@ -9,7 +9,7 @@ Android 6.0+ required
 
 ### Root
 - Download [LSPosed Framework](https://github.com/LSPosed/LSPosed)
-- Download and install `mi-fitness.apk` 
+- Download and install `miwuploader.apk` 
 - Enable Mi Watch Face Uploader in LSPosed Manager
 
 
