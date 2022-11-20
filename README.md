@@ -13,6 +13,8 @@ Android 6.0+ required
 - Enable Mi Watch Face Uploader in LSPosed Manager
 
 
+**Download links are in the [releases](https://github.com/Mino260806/mi-watchface-uploader/releases/) section**
+
 # How to use
 Once you have a watch face file ready to be installed:
 1. Copy the watch face to `Android/data/$PACKAGE_NAME/files/WatchFace` (`$PACKAGE_NAME` might be `com.mi.health` or `com.xiaomi.wearable` depending on your version of mi fitness)
