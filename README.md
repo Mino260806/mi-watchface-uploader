@@ -18,9 +18,14 @@ Android 6.0+ required
 # How to use
 Once you have a watch face file ready to be installed:
 1. Copy the watch face to `Android/data/$PACKAGE_NAME/files/WatchFace` (`$PACKAGE_NAME` might be `com.mi.health` or `com.xiaomi.wearable` depending on your version of mi fitness)
-2. Open Mi Fitness and jump to watch faces gallery, choose any online watchface and apply it (make sure that the watchface isn't installed on the watch, if so, delete it first)
-3. That's it!
+2. Rename the copied watch face to custom_watchface.
+3. Open Mi Fitness and jump to watch faces gallery, choose any online watchface and apply it (make sure that the watchface isn't installed on the watch, if so, delete it first)
+4. That's it!
 
 # Notes
 - To delete a custom watch face from the watch, you have to delete the watch face which you linked to it (see step 2 from "How to use")
 - This mod has been tested with Redmi Watch 2 Lite, but it might work with other watches as well (feel free to test it out)
+
+# Tested watches
+- Redmi Watch 2 Lite
+- Smart Band 7 Pro (not working yet)
