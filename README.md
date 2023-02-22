@@ -29,4 +29,5 @@ Once you have a watch face file ready to be installed:
 # Tested watches
 - Redmi Watch 2 Lite
 - Redmi Watch 2 China
-- Smart Band 7 Pro (not working yet)
+- Smart Band 7 Pro (not working)
+- Redmi Watch 3 (works with root version)
